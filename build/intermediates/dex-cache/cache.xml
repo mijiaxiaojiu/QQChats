@@ -3,12 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.ashokvarma.android/bottom-navigation-bar/1.3.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cebe302e3d46095e93df770cf521d8c2df263e88/classes.dex" />
+        sha1="b2ef3c729a69412c9c63aa9b7c3120c501ed471c">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.ashokvarma.android-bottom-navigation-bar-1.3.1_bd370d53aa1f4ec65655ed2f93b58cf3eef4573d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -21,21 +21,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/libs/hyphenatechat_3.2.3.jar"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/libs/rxandroid-1.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="693afd6d0db08a57b9b846cb119e107df0f66a87">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/2/hyphenatechat_3.2.3_51a42765731a1bece69f9de95092b83f014b2fdc/classes.dex" />
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/rxandroid-1.2.0_b36a8aca681d35dc345cabf8d36c9cbdde26cb84/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_ec464eb263f7920ba0c9dc6b9f1ffe9bb2e2bdd4/classes.dex" />
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_331e22febd580bfb93c8cf3209a303f88267a3b3/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -45,6 +45,276 @@
         revision="25.0.0"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
         <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cbea301b9635b765d54ccb65d8781ea20eccfaa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_4a4b8f09b72eaa7efa9b2009de13bafd7e80c5e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/libs/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/okhttp-3.3.1_2d6897d94907e0c0376cae11a10de8c9d01eddce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_5f4793045fbe862ef1bc6da90b40d25c25c5c6d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_3b2945db69e41e0fd428538981f353ef831ff539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_3078d08055c19ebd61be0f9ded585c7eb0539bb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_a6bd9b13cfa8d1d72a480105abf197fe39f36668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_10319b29049fba13cd58d0c2b77243fdacea6a95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_0d8a7a6ad53ab142561a35e73202ea7f922d3ca2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_da5b8a46a0a1bf0098a22c457aecec55c67fbba9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1afa0bf185da89652abba434c5050d37b4b28e3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/libs/org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.http.legacy_68c30cfd9a545c7fbd1c95eb2704e318230eaa72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_ce1c687ef6ab2e7e10ffb180d1b86acac1c60bb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_9d86c2ea5d41e5b6963fc5e50a376da06e41ad5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b8a3c6379bc416a837d7c93c30c9e8693995caff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/libs/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/2/rxjava-1.1.6_c0969a0436180b0f616692fe6fbc7ddf10e354c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_e6aab69906a4f90793ed9121250a5d0ac952fff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b99ace213c83bff93d96ab1c3fb5d8e26279d88a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d176143e9558e0061206486aee64d4c7c54bd905">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5e08a3e4feb094eba3c3718c2255d404c85f958d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ea815639220fb8c6b412147c7c3d0d3467fa7d6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_6cacc8c2c8ef7852be27b6379cde2ef9f921bd86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_a7c9d78e499f70793de06fdd2f06d1aa4edcfc3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_d0a15c83d2f3dee070f507d5d29bb5230b3d1cf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_2a43988e2a2f5cd059617be31aab430e0eec929e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_4d52c8022a28aef9b53958faea90c09a741caa86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_de0f08b50c35f4c32ceab0054338670a0c3c967a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cebe302e3d46095e93df770cf521d8c2df263e88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_b4c867067b7bfd3af7f4779a2e01eb92e482cb66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/libs/hyphenatechat_3.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="693afd6d0db08a57b9b846cb119e107df0f66a87">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/2/hyphenatechat_3.2.3_51a42765731a1bece69f9de95092b83f014b2fdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e19e90436a302a434cb6aec72d9a1f3d198cec2d">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fb1cd714b31c5d12685368baacbb97361c895498/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_ec464eb263f7920ba0c9dc6b9f1ffe9bb2e2bdd4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,15 +336,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_4a4b8f09b72eaa7efa9b2009de13bafd7e80c5e2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/libs/okhttp-3.3.1.jar"
         jumboMode="true"
         optimize="true"
@@ -84,39 +345,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_3b2945db69e41e0fd428538981f353ef831ff539/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_10319b29049fba13cd58d0c2b77243fdacea6a95/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_da5b8a46a0a1bf0098a22c457aecec55c67fbba9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
         <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_6cf3cc896dd8717ab829773053fcac5d326b38fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/libs/okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/okio-1.7.0_03d8f08a5ca2e4958ee3a1c5c7ceefeb6f6234ff/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,12 +381,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/libs/gson-2.6.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_ce1c687ef6ab2e7e10ffb180d1b86acac1c60bb9/classes.dex" />
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.6.2_2e0a7e4f97890087b02a40865d36643d68002eb9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -174,39 +417,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/libs/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/rxjava-1.1.6_649b4bed48b3e5334ea51d31424dd1da5f2ac295/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
         <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_685da664786382f691b51bcfce4849e7aec29a1e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/libs/rxjava-1.1.6.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/2/rxjava-1.1.6_c0969a0436180b0f616692fe6fbc7ddf10e354c0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_e6aab69906a4f90793ed9121250a5d0ac952fff2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/daaihuimin/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_37f8b829f38ee13c7fed92ba4045eaf13f018132/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -219,6 +444,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/daaihuimin/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_37f8b829f38ee13c7fed92ba4045eaf13f018132/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/libs/BmobSDK_3.5.3_20161116.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7dd0893cb2b1d2e4249ce6a10934e3cba2d57d0f">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/BmobSDK_3.5.3_20161116_50bc5d6852a41a47f0c941b57b27f2729c3b5996/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/libs/okio-1.7.0.jar"
         jumboMode="true"
         optimize="true"
@@ -228,12 +471,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_a7c9d78e499f70793de06fdd2f06d1aa4edcfc3d/classes.dex" />
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_53c11c1ad5248a1c606f5ce02b75c04236d445d5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -264,21 +507,39 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/libs/hyphenatechat_3.2.3.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_4d52c8022a28aef9b53958faea90c09a741caa86/classes.dex" />
+        sha1="693afd6d0db08a57b9b846cb119e107df0f66a87">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/hyphenatechat_3.2.3_37bf912201899176d1597fffb64a8f145b3a891b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/daaihuimin/Documents/develop/MyDemoFile/qq/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_de0f08b50c35f4c32ceab0054338670a0c3c967a/classes.dex" />
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_bd2d8f6fd35dc665764760a90740683569bade1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_e595131327f9259309727fe32cd927cf75e9cb49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/daaihuimin/Documents/work/demoFile/gitQQChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_7e10b7562b839d5adb54214fcb059f32d1782d99/classes.dex" />
     </item>
     <item
         is-multidex="true"
