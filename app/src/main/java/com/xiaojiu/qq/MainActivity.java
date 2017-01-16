@@ -137,6 +137,6 @@ public class MainActivity extends BaseActivity implements BottomNavigationBar.On
 
     @Override
     public void onTabReselected(int position) {
-        // TODO 测试使用
+        // TODO 测试使用,狂欢吧
     }
 }
