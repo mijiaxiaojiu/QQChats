@@ -9,4 +9,6 @@ public interface ContactParenter {
     void initContacts();
 
     void updateContacts();
+
+    void deleteContact(String contact);
 }

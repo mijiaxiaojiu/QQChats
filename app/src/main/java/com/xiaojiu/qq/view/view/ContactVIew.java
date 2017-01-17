@@ -11,4 +11,6 @@ public interface ContactVIew {
     void onInitContacts(List<String> contacts);
 
     void updateContacts(boolean b, String str);
+
+    void onDelete(String contact,boolean success,String msg);
 }

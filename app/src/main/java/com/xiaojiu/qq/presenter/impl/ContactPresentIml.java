@@ -84,4 +84,31 @@ public class ContactPresentIml implements ContactParenter {
     public void updateContacts() {
         updateContactsFromServer(EMClient.getInstance().getCurrentUser());
     }
+
+    @Override
+    public void deleteContact(final String contact) {
+        ThreadUtils.runOnSubThread(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    EMClient.getInstance().contactManager().deleteContact(contact);
+                    ThreadUtils.runOnMainThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            contactVIew.onDelete(contact,true,null);
+                        }
+                    });
+                } catch (final HyphenateException e) {
+                    e.printStackTrace();
+                    ThreadUtils.runOnMainThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            contactVIew.onDelete(contact,false,e.toString());
+                        }
+                    });
+                }
+            }
+        });
+
+    }
 }

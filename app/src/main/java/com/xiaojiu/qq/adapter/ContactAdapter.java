@@ -16,7 +16,7 @@ import java.util.List;
  * 作用:
  */
 
-public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ContactViewHolder> implements IContactAdapter{
+public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ContactViewHolder> implements IContactAdapter {
     private List<String> contactList;
 
     public ContactAdapter(List<String> contactList) {
@@ -31,8 +31,8 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ContactV
     }
 
     @Override
-    public void onBindViewHolder(ContactViewHolder holder, int position) {
-        String contact = contactList.get(position);
+    public void onBindViewHolder(ContactViewHolder holder, final int position) {
+        final String contact = contactList.get(position);
         holder.tv_userName.setText(contact);
         String initial = StringUtils.getInitial(contact);
         holder.tv_section.setText(initial);
@@ -48,6 +48,16 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ContactV
                 holder.tv_section.setVisibility(View.VISIBLE);
             }
         }
+
+        holder.itemView.setOnLongClickListener(new View.OnLongClickListener() {
+            @Override
+            public boolean onLongClick(View view) {
+                if (onItemLongClickListener != null){
+                    onItemLongClickListener.onItemLongClick(contact,position);
+                }
+                return true;
+            }
+        });
     }
 
     @Override
@@ -61,7 +71,7 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ContactV
     }
 
 
-    class ContactViewHolder extends RecyclerView.ViewHolder {
+    class ContactViewHolder extends RecyclerView.ViewHolder{
         TextView tv_section, tv_userName;
 
         public ContactViewHolder(View itemView) {
@@ -71,5 +81,13 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ContactV
         }
     }
 
+    public OnItemLongClickListener onItemLongClickListener;
 
+    public interface OnItemLongClickListener {
+        void onItemLongClick(String contact, int position);
+    }
+
+    public void setOnItemLongClickListener(OnItemLongClickListener onItemLongClickListener) {
+        this.onItemLongClickListener = onItemLongClickListener;
+    }
 }

@@ -3,6 +3,7 @@ package com.xiaojiu.qq.view.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.view.LayoutInflater;
@@ -14,6 +15,7 @@ import com.xiaojiu.qq.adapter.ContactAdapter;
 import com.xiaojiu.qq.event.OnContactUpdate;
 import com.xiaojiu.qq.presenter.ContactParenter;
 import com.xiaojiu.qq.presenter.impl.ContactPresentIml;
+import com.xiaojiu.qq.utils.ToastUtils;
 import com.xiaojiu.qq.view.view.ContactVIew;
 import com.xiaojiu.qq.widget.ContactLayout;
 
@@ -26,7 +28,7 @@ import java.util.List;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class ContactFragment extends BaseFragment implements ContactVIew, SwipeRefreshLayout.OnRefreshListener {
+public class ContactFragment extends BaseFragment implements ContactVIew, SwipeRefreshLayout.OnRefreshListener, ContactAdapter.OnItemLongClickListener {
 
 
     private ContactLayout contactLayout;
@@ -68,12 +70,22 @@ public class ContactFragment extends BaseFragment implements ContactVIew, SwipeR
         contactAdapter = new ContactAdapter(contacts);
 
         contactLayout.setAdapter(contactAdapter);
+        contactAdapter.setOnItemLongClickListener(this);
     }
 
     @Override
     public void updateContacts(boolean b, String str) {
         contactAdapter.notifyDataSetChanged();
         contactLayout.setRefreshing(false);//隐藏下啦刷新
+    }
+
+    @Override
+    public void onDelete(String contact, boolean success, String msg) {
+        if (success){//删除成功
+            ToastUtils.showToast(getActivity(),"删除成功");
+        }else {
+            ToastUtils.showToast(getActivity(),"删除失败");
+        }
     }
 
     @Override
@@ -91,5 +103,16 @@ public class ContactFragment extends BaseFragment implements ContactVIew, SwipeR
     public void onDestroyView() {
         super.onDestroyView();
         EventBus.getDefault().unregister(this);
+    }
+
+    @Override
+    public void onItemLongClick(final String contact, int position) {
+        Snackbar.make(contactLayout,"您和"+contact+"确定友尽了吗?",Snackbar.LENGTH_LONG).setAction("确定",new View.OnClickListener(){
+            @Override
+            public void onClick(View view) {
+//                ToastUtils.showToast(getActivity(),"删除了"+contact);
+                contactParenter.deleteContact(contact);
+            }
+        }).show();
     }
 }
